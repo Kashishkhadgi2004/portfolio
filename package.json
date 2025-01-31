@@ -1,0 +1,20 @@
+{
+  "name": "kashh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoos": "^0.0.1-security",
+    "mongoose": "^8.9.5",
+    "nodemon": "^3.1.9",
+    "path": "^0.12.7"
+  },
+  "description": ""
+}
